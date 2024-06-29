@@ -19,14 +19,12 @@ Desde criança, sempre fui fascinado por tecnologia e como ela pode transformar 
 
 ### Bibliotecas e Frameworks
 
-![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django&logoColor=092e20)
+![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django&logoColor=white)
 
 ### Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=003545)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
-
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 ### GitHub Stats
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JosemirFarias&bg_color=000&border_color=30A3DC&title_color=white&text_color=FFF)
