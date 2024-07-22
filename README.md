@@ -20,11 +20,13 @@ Desde criança, sempre fui fascinado por tecnologia e como ela pode transformar 
 ### Bibliotecas e Frameworks
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/boostrap-000?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 
 ### Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 ### Sistema Operacional
 
