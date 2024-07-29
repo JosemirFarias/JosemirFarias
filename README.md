@@ -1,6 +1,3 @@
-<h2 align="left">Josemir Farias de Brito</h2>
-
-###
 
 <h3 align="left">Sobre Mim</h3>
 
