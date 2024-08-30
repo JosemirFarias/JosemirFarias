@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Olá bem vindos ao meu perfil, me chamo Josemir, atualmente trabalho como instalador hidráulico e estudante de engenharia de software.<br><br>Iniciei minha jornada como estudante de tecnologia em 2024, sempre gostei muito da área, quanto mais aprendo mais quero aprender, ainda não atuo na área mais espero conseguir minha vaga no mercado e assim aprendo muito mais a cada dia.</p>
+<p align="left">Olá, me chamo Josemir, atualmente trabalho como instalador hidráulico e estudante de engenharia de software.<br><br>Iniciei minha jornada como estudante de tecnologia em 2024, sempre gostei muito da área, quanto mais aprendo mais quero aprender, ainda não atuo na área mais espero conseguir minha vaga no mercado e assim aprendo muito mais a cada dia.</p>
 
 ###
 
@@ -18,12 +18,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
+
+###
 
 ###
 
