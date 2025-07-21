@@ -1,86 +1,70 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
 
-<h3 align="left">Sobre Mim</h3>
+---
 
-###
+<!-- Typing Bio -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C8FF&center=true&vCenter=true&width=1000&lines=Olá%2C+me+chamo+Josemir+Farias!;Sou+desenvolvedor+Java+back-end.;Estudante+de+Engenharia+de+Software.;Seja+bem-vindo+ao+meu+GitHub!"/>
+</p>
 
-<p align="left">Olá, me chamo Josemir, atualmente trabalho como instalador hidráulico e estudante de engenharia de software.<br><br>Iniciei minha jornada como estudante de tecnologia em 2024, sempre gostei muito da área, quanto mais aprendo mais quero aprender, ainda não atuo na área mais espero conseguir minha vaga no mercado e assim aprendo muito mais a cada dia.</p>
+---
 
-###
+<h1 align="center">Hi there, I'm Josemir Farias 👋</h1>
 
-<h3 align="left">Tecnologias</h3>
+<p align="center">
+  💻 Desenvolvedor Java | 🌱 Estudante de Engenharia de Software | 🚀 Apaixonado por tecnologia e aprendizado contínuo
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
+## 🚀 About Me
 
-###
+🎓 Sou estudante de Engenharia de Software, com foco no desenvolvimento back-end com Java.
 
-###
+💡 Atualmente estudando **Spring Boot**, **Docker**, **JWT**, além de explorar plataformas em nuvem como **AWS** e **GCP**.
 
-<h3 align="left">Bibliotecas e Frameworks</h3>
+🎯 Estou em busca de oportunidades de estágio na área de desenvolvimento Java, onde possa aplicar meus conhecimentos em projetos reais, colaborar com times de tecnologia e crescer profissionalmente.
 
-###
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-</div>
+## 🛠️ Technologies
 
-###
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse"/>
+</p>
 
-<h3 align="left">Banco de Dados</h3>
+---
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-###
-
-<h3 align="left">GitHub Stats</h3>
-
-###
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosemirFarias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosemirFarias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemirfarias&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemirfarias&layout=compact&theme=tokyonight" />
 </div>
 
-###
+---
 
-<p align="left">Minhas Redes</p>
+## 📫 Contact
 
-###
+- [LinkedIn](https://www.linkedin.com/in/josemir-farias)
+- 📧 josemirfbrito@gmail.com
+- [GitHub](https://github.com/josemirfarias)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/josemir-farias-de-brito-05702b207/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/josemirfbrito/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="josemirfbrito@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
-
-
-
+⭐ Se você curtir algum dos meus projetos, não esqueça de deixar uma estrela!
