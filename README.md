@@ -32,6 +32,18 @@
 <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
 
+<!-- Php -->
+<img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+ <img width="12" />
+
+<!-- Html -->
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+
+<!-- Css -->
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+
 <!-- Spring Boot -->
 <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
@@ -51,10 +63,6 @@
 <!-- Postman -->
  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
-
-<!-- Php -->
-<img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
- <img width="12" />
  
 <!-- Git -->
  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
